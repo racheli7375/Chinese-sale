@@ -27,7 +27,7 @@ export default function Login(props) {
             }
             axios.post('http://localhost:4000/user/addUser', { userName: name, password: password, address: null, email: null });
         }
-        else alert("wrong passwo");
+        else alert("wrong password");
     }
     return (
         <>
