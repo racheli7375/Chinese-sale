@@ -1,0 +1,9 @@
+#image {
+    border: solid 3px #006b68;
+    width: 20vw;
+    margin: 10px;
+}
+
+#btn {
+    background-color: #006b68 !important;
+}

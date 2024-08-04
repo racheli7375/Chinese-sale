@@ -1,0 +1,20 @@
+#img {
+    width: 100vw;
+}
+
+#logo {
+    height: 10wh;
+}
+
+#nav {
+    background-color: #fadda1 !important;
+}
+
+#hello{
+    display: inline;
+    position: relative;
+    right: 60vw;
+}
+.inp {
+    margin: 20px !important;
+}
