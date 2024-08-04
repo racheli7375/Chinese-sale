@@ -1,0 +1,22 @@
+#btn {
+    background-color: #e62531 !important;
+}
+
+.img,
+form {
+    width: 100%;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}

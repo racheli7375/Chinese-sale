@@ -1,0 +1,17 @@
+.all {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-img-top {
+    width: 150px;
+    height: 200px;
+}
+.btn-primary{
+    background-color: #016b69 !important;
+    border:#016b69 !important;
+}
